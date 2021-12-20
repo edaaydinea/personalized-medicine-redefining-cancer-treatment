@@ -1,4 +1,4 @@
-# Personalized Medicine: Predefining Cancer Treatment
+# Personalized Medicine: Redefining Cancer Treatment
 Prediction the effect of Genetic Variants to enable Personalized Medicine
 
 Author: Eda AYDIN - Training Instructor: Hoang Quy La
