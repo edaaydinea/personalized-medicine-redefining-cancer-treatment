@@ -1,0 +1,2 @@
+training_text filter=lfs diff=lfs merge=lfs -text
+test_text filter=lfs diff=lfs merge=lfs -text
